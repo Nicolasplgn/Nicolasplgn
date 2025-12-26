@@ -1,35 +1,84 @@
-# 👨‍💻 Nicolas — Perfil Profissional
+<div align="center">
 
-Este perfil é utilizado **exclusivamente para projetos profissionais e corporativos**, envolvendo desenvolvimento, automação de processos e soluções digitais voltadas à área empresarial.
+# 👨‍💼 Nicolas | Perfil Profissional  
+### 💼 Tecnologia • Automação • Sistemas Corporativos
 
-## 🚀 Atuação
-- Desenvolvimento de sistemas web e internos
-- Automação de fluxos e processos operacionais
-- Integrações entre sistemas
-- Suporte à tomada de decisão através de tecnologia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Perfil+Git+para+uso+profissional;Desenvolvimento+de+sistemas+corporativos;Automação+de+processos+e+integrações" />
 
-## 🛠️ Tecnologias e Ferramentas
-- **Backend:** Node.js, Express, APIs REST
-- **Frontend:** HTML, CSS, JavaScript
-- **Banco de Dados:** SQLite, MySQL
-- **Automação:** n8n, integrações com APIs
-- **Versionamento:** Git
-- **Outros:** JWT, FullCalendar, Axios
-
-## 📂 Padrões de Projeto
-- Código organizado e documentado
-- Foco em performance e segurança
-- Estrutura pensada para manutenção e escalabilidade
-- Versionamento controlado e histórico limpo
-
-## 🔒 Observações Importantes
-- Repositórios podem conter **informações sensíveis ou lógicas internas**
-- Uso restrito a ambientes corporativos
-- Projetos seguem padrões definidos pela empresa
-
-## 📬 Contato
-Este perfil é voltado para colaboração profissional.  
-Contato direto apenas por canais corporativos autorizados.
+</div>
 
 ---
-🧩 *Tecnologia aplicada para otimizar processos, reduzir falhas e gerar eficiência.*
+
+## 🧠 Sobre este perfil
+
+Este perfil é utilizado **exclusivamente para fins profissionais e corporativos**, com foco no desenvolvimento de soluções tecnológicas voltadas à **eficiência operacional**, **automação de processos** e **sistemas internos empresariais**.
+
+> 🔒 Repositórios podem conter lógicas internas, regras de negócio e integrações específicas.
+
+---
+
+## 🚀 Áreas de Atuação
+
+- 🧩 Desenvolvimento de sistemas internos
+- ⚙️ Automação de processos operacionais
+- 🔗 Integrações entre plataformas e APIs
+- 📊 Apoio tecnológico à gestão e tomada de decisão
+- 🏢 Soluções voltadas ao ambiente corporativo
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💻 Desenvolvimento
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+
+### 🗄️ Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
+### 🔄 Automação & Integrações
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n)
+![API](https://img.shields.io/badge/APIs-0d1117?style=for-the-badge&logo=fastapi)
+
+### 🔐 Segurança & Controle
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+
+---
+
+## 📂 Padrões e Boas Práticas
+
+- ✅ Código limpo e documentado
+- ✅ Estrutura modular e escalável
+- ✅ Controle de permissões e autenticação
+- ✅ Versionamento organizado
+- ✅ Foco em estabilidade e manutenção
+
+---
+
+## 🏢 Contexto Corporativo
+
+- Projetos desenvolvidos para **ambiente empresarial**
+- Regras alinhadas a **processos internos**
+- Uso controlado e autorizado
+- Estrutura pensada para **uso real em produção**
+
+---
+
+## 📬 Contato
+
+📌 Este perfil é voltado para **colaboração profissional**.  
+📎 Contato realizado apenas por **canais corporativos oficiais**.
+
+---
+
+<div align="center">
+
+### 🧩 Tecnologia aplicada com propósito, organização e eficiência.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+
+</div>
