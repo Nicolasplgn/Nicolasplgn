@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Nicolas — Perfil Profissional
 
-<!--
-**Nicolasplgn/Nicolasplgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este perfil é utilizado **exclusivamente para projetos profissionais e corporativos**, envolvendo desenvolvimento, automação de processos e soluções digitais voltadas à área empresarial.
 
-Here are some ideas to get you started:
+## 🚀 Atuação
+- Desenvolvimento de sistemas web e internos
+- Automação de fluxos e processos operacionais
+- Integrações entre sistemas
+- Suporte à tomada de decisão através de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Backend:** Node.js, Express, APIs REST
+- **Frontend:** HTML, CSS, JavaScript
+- **Banco de Dados:** SQLite, MySQL
+- **Automação:** n8n, integrações com APIs
+- **Versionamento:** Git
+- **Outros:** JWT, FullCalendar, Axios
+
+## 📂 Padrões de Projeto
+- Código organizado e documentado
+- Foco em performance e segurança
+- Estrutura pensada para manutenção e escalabilidade
+- Versionamento controlado e histórico limpo
+
+## 🔒 Observações Importantes
+- Repositórios podem conter **informações sensíveis ou lógicas internas**
+- Uso restrito a ambientes corporativos
+- Projetos seguem padrões definidos pela empresa
+
+## 📬 Contato
+Este perfil é voltado para colaboração profissional.  
+Contato direto apenas por canais corporativos autorizados.
+
+---
+🧩 *Tecnologia aplicada para otimizar processos, reduzir falhas e gerar eficiência.*
