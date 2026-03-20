@@ -1,84 +1,81 @@
 <div align="center">
 
-# 👨‍💼 Nicolas | Perfil Profissional  
-### 💼 Tecnologia • Automação • Sistemas Corporativos
+# 👨‍💻 Nicolas | Software Engineer & Automation Specialist
+### 🚀 Transformando processos complexos em soluções digitais eficientes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Perfil+Git+para+uso+profissional;Desenvolvimento+de+sistemas+corporativos;Automação+de+processos+e+integrações" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@corporativo.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Especialista+em+Automação+de+Processos;Desenvolvedor+de+Sistemas+Corporativos;Arquiteto+de+Integrações+via+API;Focado+em+Eficiência+Operacional" />
 
 </div>
 
 ---
 
-## 🧠 Sobre este perfil
+## 🧠 Sobre Mim
 
-Este perfil é utilizado **exclusivamente para fins profissionais e corporativos**, com foco no desenvolvimento de soluções tecnológicas voltadas à **eficiência operacional**, **automação de processos** e **sistemas internos empresariais**.
+Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em criar ferramentas que otimizam o dia a dia das empresas. Minha atuação une o desenvolvimento de software robusto com a agilidade das automações modernas, garantindo que a tecnologia seja um acelerador de resultados e não um gargalo.
 
-> 🔒 Repositórios podem conter lógicas internas, regras de negócio e integrações específicas.
-
----
-
-## 🚀 Áreas de Atuação
-
-- 🧩 Desenvolvimento de sistemas internos
-- ⚙️ Automação de processos operacionais
-- 🔗 Integrações entre plataformas e APIs
-- 📊 Apoio tecnológico à gestão e tomada de decisão
-- 🏢 Soluções voltadas ao ambiente corporativo
+> 🔒 **Nota de Privacidade:** Este perfil é estritamente profissional. Muitos dos meus repositórios são privados ou contêm lógicas de negócio sensíveis e integrações proprietárias.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 Desenvolvimento
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
-
-### 🗄️ Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+### 💻 Desenvolvimento & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔄 Automação & Integrações
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n)
-![API](https://img.shields.io/badge/APIs-0d1117?style=for-the-badge&logo=fastapi)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=postman&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-4B0082?style=for-the-badge&logo=webhooks&logoColor=white)
 
-### 🔐 Segurança & Controle
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+### 🗄️ Banco de Dados & Segurança
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=00CCBB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Áreas de Expertise
+
+| Área | Descrição |
+| :--- | :--- |
+| **Sistemas Internos** | Desenvolvimento de dashboards, CRMs customizados e ferramentas de gestão. |
+| **Automação Low-Code/No-Code** | Fluxos complexos no **n8n** integrando múltiplas plataformas (Slack, Google Sheets, CRMs). |
+| **Integrações de API** | Conexão entre sistemas legados e plataformas modernas via REST/Webhooks. |
+| **Segurança de Dados** | Implementação de autenticação robusta e controle de acesso granular. |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
 
 ---
 
 ## 📂 Padrões e Boas Práticas
 
-- ✅ Código limpo e documentado
-- ✅ Estrutura modular e escalável
-- ✅ Controle de permissões e autenticação
-- ✅ Versionamento organizado
-- ✅ Foco em estabilidade e manutenção
+*   ✅ **Clean Code:** Código escrito para humanos, focado em legibilidade e manutenção.
+*   ✅ **Arquitetura Modular:** Sistemas escaláveis que crescem conforme a necessidade do negócio.
+*   ✅ **Documentação Ativa:** READMEs detalhados e documentação de API (Swagger/Postman).
+*   ✅ **CI/CD:** Automação não apenas no produto, mas no processo de entrega.
 
 ---
 
-## 🏢 Contexto Corporativo
+## 📬 Vamos Conversar?
 
-- Projetos desenvolvidos para **ambiente empresarial**
-- Regras alinhadas a **processos internos**
-- Uso controlado e autorizado
-- Estrutura pensada para **uso real em produção**
-
----
-
-## 📬 Contato
-
-📌 Este perfil é voltado para **colaboração profissional**.  
-📎 Contato realizado apenas por **canais corporativos oficiais**.
-
----
+Estou sempre aberto a discussões sobre **eficiência operacional** e **novas tecnologias**. Se você busca automatizar processos ou desenvolver soluções corporativas sob medida, entre em contato pelos canais oficiais.
 
 <div align="center">
-
-### 🧩 Tecnologia aplicada com propósito, organização e eficiência.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
-
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </div>
