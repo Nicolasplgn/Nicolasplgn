@@ -27,15 +27,18 @@ Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em cri
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Adianti](https://img.shields.io/badge/Adianti_Framework-FF6B35?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔄 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=postman&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4B0082?style=for-the-badge&logo=webhooks&logoColor=white)
 
-### 🗄️ Banco de Dados & Segurança
+### 🗄️ Banco de Dados & Análise
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HiEd SQL](https://img.shields.io/badge/HiEd_SQL-FF6B5B?style=for-the-badge&logo=database&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=00CCBB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -45,10 +48,27 @@ Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em cri
 
 | Área | Descrição |
 | :--- | :--- |
-| **Sistemas Internos** | Desenvolvimento de dashboards, CRMs customizados e ferramentas de gestão. |
+| **Sistemas Internos** | Desenvolvimento de dashboards, CRMs customizados e ferramentas de gestão. Experiência com Adianti Framework para aplicações corporativas robustas. |
+| **Análise de Dados** | Queries complexas com HiEd SQL para análise, extração e transformação de dados em larga escala. |
 | **Automação Low-Code/No-Code** | Fluxos complexos no **n8n** integrando múltiplas plataformas (Slack, Google Sheets, CRMs). |
 | **Integrações de API** | Conexão entre sistemas legados e plataformas modernas via REST/Webhooks. |
 | **Segurança de Dados** | Implementação de autenticação robusta e controle de acesso granular. |
+
+---
+
+## 🔍 Técnicas & Ferramentas em Foco
+
+### 🎯 Adianti Framework
+- Desenvolvimento de aplicações corporativas com MVC robusto
+- Criação de formulários, grids e relatórios dinâmicos
+- Integração com bancos de dados enterprise
+- Interface responsiva e acessível
+
+### 📊 HiEd SQL
+- Queries otimizadas para análise de grandes volumes de dados
+- Processamento ETL e transformação de dados
+- Performance tuning e índices estratégicos
+- Automação de relatórios complexos
 
 ---
 
@@ -58,6 +78,7 @@ Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em cri
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
+
 ---
 
 ## 📂 Padrões e Boas Práticas
@@ -65,13 +86,14 @@ Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em cri
 *   ✅ **Clean Code:** Código escrito para humanos, focado em legibilidade e manutenção.
 *   ✅ **Arquitetura Modular:** Sistemas escaláveis que crescem conforme a necessidade do negócio.
 *   ✅ **Documentação Ativa:** READMEs detalhados e documentação de API (Swagger/Postman).
+*   ✅ **Queries Otimizadas:** Performance em análises de dados e relatórios.
 *   ✅ **CI/CD:** Automação não apenas no produto, mas no processo de entrega.
 
 ---
 
 ## 📬 Vamos Conversar?
 
-Estou sempre aberto a discussões sobre **eficiência operacional** e **novas tecnologias**. Se você busca automatizar processos ou desenvolver soluções corporativas sob medida, entre em contato pelos canais oficiais.
+Estou sempre aberto a discussões sobre **eficiência operacional**, **análise de dados** e **novas tecnologias**. Se você busca automatizar processos, desenvolver soluções corporativas sob medida ou otimizar análises de dados, entre em contato pelos canais oficiais.
 
 <div align="center">
   <br />
