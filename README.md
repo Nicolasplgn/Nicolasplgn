@@ -1,101 +1,162 @@
 <div align="center">
 
-# 👨‍💻 Nicolas | Software Engineer & Automation Specialist
-### 🚀 Transformando processos complexos em soluções digitais eficientes
+# 💼 Nicolas Pereira
+## Software Engineer | Automation & Data Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-pereira-lucas-gon%C3%A7alves-4466b5326/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolasplgn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trabalhonicolasplg@gmail.com)
+### ⚡ Transformando caos operacional em sistemas que funcionam
 
+![Status](https://img.shields.io/badge/Status-Building%20The%20Future-4CAF50?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-%2B5%20Years-FF6B35?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Enterprise%20Solutions-0A66C2?style=for-the-badge)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-pereira-lucas-gon%C3%A7alves-4466b5326/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Nicolasplgn)
+[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trabalhonicolasplg@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5544999999999)
 
 </div>
 
 ---
 
-## 🧠 Sobre Mim
+## 🎯 O Que Eu Resolvo
 
-Sou um desenvolvedor focado no **ecossistema corporativo**, especializado em criar ferramentas que otimizam o dia a dia das empresas. Minha atuação une o desenvolvimento de software robusto com a agilidade das automações modernas, garantindo que a tecnologia seja um acelerador de resultados e não um gargalo.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏢  200+ HORAS/MÊS EM TRABALHO MANUAL?                         │
+│      → Eu transformo isso em automação inteligente              │
+│      Stack: n8n | APIs | Webhooks                              │
+└─────────────────────────────────────────────────────────────────┘
 
-> 🔒 **Nota de Privacidade:** Este perfil é estritamente profissional. Muitos dos meus repositórios são privados ou contêm lógicas de negócio sensíveis e integrações proprietárias.
+┌─────────────────────────────────────────────────────────────────┐
+│  📊  DADOS EM 10 SISTEMAS DIFERENTES?                           │
+│      → Eu centralizo e transformo em insights acionáveis        │
+│      Stack: HiEd SQL | MySQL | Dashboards                      │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  🔌  SISTEMA LEGADO NÃO FALA COM PLATAFORMAS MODERNAS?         │
+│      → Eu crio a ponte integrada e de alta performance         │
+│      Stack: REST APIs | Webhooks | Node.js                     │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  💻  PRECISA DE CRM, DASHBOARD OU SISTEMA INTERNO?             │
+│      → Eu desenvolvo escalável, seguro e pronto pra crescer    │
+│      Stack: Node.js | FastAPI | Adianti | PHP                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 Desenvolvimento & Backend
+### Backend & Desenvolvimento
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Adianti](https://img.shields.io/badge/Adianti_Framework-FF6B35?style=for-the-badge&logo=php&logoColor=white)
+![Adianti_Framework](https://img.shields.io/badge/Adianti-FF6B35?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔄 Automação & Integrações
+### Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=postman&logoColor=white)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=postman&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4B0082?style=for-the-badge&logo=webhooks&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack_Integration-36C5F0?style=for-the-badge&logo=slack&logoColor=white)
 
-### 🗄️ Banco de Dados & Análise
+### Banco de Dados & Análise
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HiEd_SQL](https://img.shields.io/badge/HiEd_SQL-FF6B5B?style=for-the-badge&logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HiEd SQL](https://img.shields.io/badge/HiEd_SQL-FF6B5B?style=for-the-badge&logo=database&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=00CCBB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Áreas de Expertise
-
-| Área | Descrição |
-| :--- | :--- |
-| **Sistemas Internos** | Desenvolvimento de dashboards, CRMs customizados e ferramentas de gestão. Experiência com Adianti Framework para aplicações corporativas robustas. |
-| **Análise de Dados** | Queries complexas com HiEd SQL para análise, extração e transformação de dados em larga escala. |
-| **Automação Low-Code/No-Code** | Fluxos complexos no **n8n** integrando múltiplas plataformas (Slack, Google Sheets, CRMs). |
-| **Integrações de API** | Conexão entre sistemas legados e plataformas modernas via REST/Webhooks. |
-| **Segurança de Dados** | Implementação de autenticação robusta e controle de acesso granular. |
-
----
-
-## 🔍 Técnicas & Ferramentas em Foco
-
-### 🎯 Adianti Framework
-- Desenvolvimento de aplicações corporativas com MVC robusto
-- Criação de formulários, grids e relatórios dinâmicos
-- Integração com bancos de dados enterprise
-- Interface responsiva e acessível
-
-### 📊 HiEd SQL
-- Queries otimizadas para análise de grandes volumes de dados
-- Processamento ETL e transformação de dados
-- Performance tuning e índices estratégicos
-- Automação de relatórios complexos
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 Números que Falam
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
----
-
-## 📂 Padrões e Boas Práticas
-
-*   ✅ **Clean Code:** Código escrito para humanos, focado em legibilidade e manutenção.
-*   ✅ **Arquitetura Modular:** Sistemas escaláveis que crescem conforme a necessidade do negócio.
-*   ✅ **Documentação Ativa:** READMEs detalhados e documentação de API (Swagger/Postman).
-*   ✅ **Queries Otimizadas:** Performance em análises de dados e relatórios.
-*   ✅ **CI/CD:** Automação não apenas no produto, mas no processo de entrega.
+**→ Muitos dos meus repositórios são privados (lógicas de negócio + integrações proprietárias)**
 
 ---
 
-## 📬 Vamos Conversar?
+## 🚀 Expertise Mapeada
 
-Estou sempre aberto a discussões sobre **eficiência operacional**, **análise de dados** e **novas tecnologias**. Se você busca automatizar processos, desenvolver soluções corporativas sob medida ou otimizar análises de dados, entre em contato pelos canais oficiais.
+| Especialidade | Impacto | Stack |
+| :--- | :--- | :--- |
+| **Automação de Processos** | Reduz 40-60h/mês de trabalho manual | n8n, Webhooks, APIs |
+| **Análise & BI** | Transforma dados brutos em decisões | HiEd SQL, MySQL, dashboards |
+| **Sistemas Corporativos** | Dashboard, CRM, SaaS customizado | Adianti, Node.js, FastAPI |
+| **Integrações Enterprise** | Conecta sistemas sem reescrever | REST APIs, integrações híbridas |
+| **Performance & Segurança** | JWT, queries otimizadas, arquitetura modular | Clean Code, CI/CD |
+
+---
+
+## 💡 Como Trabalho
+
+✅ **Ágil e Iterativo** — Entrego valor incremental, não promessas vazias  
+✅ **Documentado** — Swagger, Postman, READMEs que servem  
+✅ **Testado** — Código que passa em produção, não em slides  
+✅ **Escalável** — Arquitetura que cresce com o seu negócio  
+✅ **Seguro** — Autenticação robusta, dados protegidos
+
+---
+
+## 🔧 O Que Eu Posso Fazer Por Você Agora
+
+### Cenário 1: Automação de workflows
+**Problema:** Seu time copia dados de um sistema para outro 10x por dia  
+**Solução:** n8n + API integrada = um clique, automático  
+**Ganho:** ~40h/mês devolvidas ao seu time
+
+### Cenário 2: Dashboard & BI
+**Problema:** "Eu preciso saber quantas vendas tivemos, mas os dados estão em 3 planilhas"  
+**Solução:** HiEd SQL queries + dashboard com atualização automática  
+**Ganho:** Decisões em minutos, não horas
+
+### Cenário 3: CRM ou SaaS interno
+**Problema:** Você usa 5 softwares caros para gerenciar clientes  
+**Solução:** CRM customizado, integrado com tudo, 1/10 do preço  
+**Ganho:** Menos ferramentas, mais controle, muito mais eficiência
+
+### Cenário 4: Conectar legado com moderno
+**Problema:** "Nosso ERP antigo não fala com os SaaS novos"  
+**Solução:** Bridge de integração em Node.js/FastAPI com retry automático  
+**Ganho:** Dados fluem sincronizados em tempo real
+
+---
+
+## 📋 Padrões e Boas Práticas
+
+- **Clean Code** — Legível, manutenível, humano-first
+- **Arquitetura Modular** — Cresce conforme sua necessidade
+- **Queries Otimizadas** — Performance em análises de 1M+ registros
+- **CI/CD Setup** — Deploy automático, não nervosismo
+- **Documentação Viva** — Código e docs que crescem juntos
+
+---
+
+## 🔒 Nota de Privacidade
+
+Muitos dos meus repositórios são **privados** — contêm lógicas de negócio sensíveis, chaves de integração, dados de clientes. Este é um portfólio **profissional**, focado em problemas do mundo real, não em side projects. Posso mostrar detalhes de projetos sob NDA se necessário.
+
+---
+
+## 💬 Vamo Conversar?
+
+**Tem um projeto complexo?** Não quer mais gastar tempo com processos manuais? Precisa integrar sistemas? 
+
+**Manda uma mensagem.** Vou entender seu problema e desenhar uma solução que funciona.
 
 <div align="center">
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+  <a href="mailto:trabalhonicolasplg@gmail.com" style="display: inline-block; padding: 12px 24px; background: #0A66C2; color: white; text-decoration: none; border-radius: 6px; font-weight: 600;">📧 Iniciar conversa</a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer"/>
 </div>
