@@ -11,7 +11,7 @@ Ajudo empresas a parar de pagar por horas de trabalho braçal com dados, e a sub
 
 ![Status](https://img.shields.io/badge/🟢_Disponível-para%20novos%20projetos-4CAF50?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/3%2B_anos-de%20experiência-FF6B35?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Foco-Automação%20%26%20Integrações-0A66C2?style=for-the-badge)
+![Role](https://img.shields.io/badge/Cargo-Engenheiro%20de%20Software-0A66C2?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-pereira-lucas-gon%C3%A7alves-4466b5326/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfólio-181717?style=flat-square&logo=github)](https://github.com/Nicolasplgn)
