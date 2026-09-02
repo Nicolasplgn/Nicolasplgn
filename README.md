@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=top&text=Nicolas%20Pereira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Software%20e%20Integracao%20de%20Sistemas&descFontSize=16&descAlignY=58&v=1" alt="Nicolas Pereira" />
 </p>
 
-<h3 align="center">Engenheiro de Automação & Integração de Sistemas</h3>
+<h3 align="center">Tecnologia e Soluções</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Elimino+trabalho+manual+e+horas+bra%C3%A7ais+com+dados;Conecto+sistemas+que+deveriam+conversar+entre+si;Desenvolvo+ERPs+Full-Stack+e+Dashboards+BI;Integra%C3%A7%C3%B5es+robustas+que+rodam+24%2F7+sem+falhar." alt="Typing SVG" />
