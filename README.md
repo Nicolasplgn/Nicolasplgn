@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=top&text=Nicolas%20Pereira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Automa%C3%A7%C3%A3o%20%26%20Integra%C3%A7%C3%A3o%20de%20Sistemas&descFontSize=18&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=140&section=top&text=Nicolas%20Pereira&fontSize=42&fontColor=ffffff" alt="Nicolas Pereira" />
+</p>
+
+<h3 align="center">Engenheiro de Automação & Integração de Sistemas</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Elimino+trabalho+manual+e+horas+bra%C3%A7ais+com+dados;Conecto+sistemas+que+deveriam+conversar+entre+si;Desenvolvo+ERPs+Full-Stack+e+Dashboards+BI;Integra%C3%A7%C3%B5es+robustas+que+rodam+24%2F7+sem+falhar." alt="Typing SVG" />
 </p>
 
 <p align="center">
