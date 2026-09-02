@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=top&text=Nicolas%20Pereira&fontSize=38&fontColor=ffffff&desc=Engenheiro%20de%20Automação%20%26%20Integração%20de%20Sistemas&descFontSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=top&text=Nicolas%20Pereira&fontSize=38&fontColor=ffffff&desc=Engenheiro%20de%20Automa%C3%A7%C3%A3o%20%26%20Integra%C3%A7%C3%A3o%20de%20Sistemas&descFontSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
