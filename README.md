@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Elimino+trabalho+manual+e+horas+bra%C3%A7ais+com+dados;Conecto+sistemas+que+deveriam+conversar+entre+si;Desenvolvo+ERPs+Full-Stack+e+Dashboards+BI;Integra%C3%A7%C3%B5es+robustas+que+rodam+24%2F7+sem+falhar." alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:trabalhonicolasplg@gmail.com"><img src="https://img.shields.io/badge/Status-🟢%20Disponível%20para%20Projetos-238636?style=for-the-badge&logoColor=white" alt="Status" /></a>
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-pereira-lucas-gon%C3%A7alves-4466b5326/"><img src="https://img.shields.io/badge/Experiência-3%2B%20Anos-1f6feb?style=for-the-badge&logoColor=white" alt="Experience" /></a>
 </p>
