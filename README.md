@@ -27,6 +27,8 @@ Não vendo "horas de código". Vendo **tempo recuperado e decisões mais rápida
 
 - 🔁 Automatizo o que hoje consome horas do seu time todo mês
 - 🔌 Conecto sistemas que "não tinham API" ou "não foram feitos pra isso"
+- 🖥️ Desenvolvo sistemas ERP completos, front-end e back-end, com PHP e Adianti Framework
+- 📄 Analiso a estrutura do banco de dados e construo relatórios sob medida para cada área da operação
 - 📊 Transformo dados espalhados em painéis que qualquer gestor entende em segundos
 - 🏗️ Construo por trás de tudo isso uma base sólida — não um MVP que quebra no primeiro imprevisto
 - 🗣️ Falo a língua de negócio, não só a de código: entendo o processo antes de escrever a primeira linha
@@ -41,6 +43,7 @@ Não vendo "horas de código". Vendo **tempo recuperado e decisões mais rápida
 | Dados espalhados em vários sistemas/planilhas | Centralização + dashboards com dados confiáveis, atualizados sozinhos | SQL, MySQL, BI |
 | Sistema legado que não conversa com as ferramentas novas | Camada de integração dedicada, com retry automático e monitoramento de falhas | Node.js, REST APIs |
 | Empresa pagando por 5 ferramentas que fazem o trabalho de 1 | Sistema interno sob medida (CRM, dashboard, painel de controle) | Node.js, FastAPI, Adianti |
+| Relatórios manuais, sem padrão, difíceis de manter | Relatórios sob medida direto no sistema, com dados validados no banco | PHP, Adianti, SQL |
 
 ---
 
@@ -69,6 +72,9 @@ Nada de "caixa-preta": toda automação sai documentada, testada e com um plano 
 
 **Bridge legado ↔ moderno**
 > ERP antigo, sem API própria, não conseguia se comunicar com as ferramentas SaaS da empresa. Desenvolvi uma camada de integração em Node.js com retry automático e monitoramento de falhas.
+
+**ERP full-stack (projeto atual)**
+> Desenvolvimento completo de um sistema ERP em PHP com Adianti Framework, do front-end ao back-end. Inclui análise da estrutura do banco de dados e a criação de uma quantidade grande de relatórios sob medida para diferentes áreas da operação.
 
 ---
 
@@ -101,8 +107,8 @@ Nada de "caixa-preta": toda automação sai documentada, testada e com um plano 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 > Parte relevante do meu trabalho está em repositórios privados — lógica de negócio e integrações de clientes sob NDA. Posso apresentar detalhes em conversa, sob acordo de confidencialidade se necessário.
