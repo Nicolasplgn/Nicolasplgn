@@ -10,7 +10,7 @@ Ajudo empresas a parar de pagar por horas de trabalho braçal com dados, e a sub
 <br>
 
 ![Status](https://img.shields.io/badge/🟢_Disponível-para%20novos%20projetos-4CAF50?style=for-the-badge)
-![Experience](https://img.shields.io/badge/5%2B_anos-de%20experiência-FF6B35?style=for-the-badge)
+![Experience](https://img.shields.io/badge/3%2B_anos-de%20experiência-FF6B35?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Foco-Automação%20%26%20Integrações-0A66C2?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-pereira-lucas-gon%C3%A7alves-4466b5326/)
@@ -107,8 +107,8 @@ Nada de "caixa-preta": toda automação sai documentada, testada e com um plano 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nicolasplgn&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasplgn&layout=compact&theme=tokyonight" />
 </div>
 
 > Parte relevante do meu trabalho está em repositórios privados — lógica de negócio e integrações de clientes sob NDA. Posso apresentar detalhes em conversa, sob acordo de confidencialidade se necessário.
