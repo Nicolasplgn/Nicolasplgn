@@ -28,7 +28,7 @@ Desenvolvedor Full Stack na **Vector Soluções Digitais**, estudante de **Engen
 Trabalho do levantamento de requisitos até a produção: ERPs, PDV, dashboards financeiros, APIs REST e robôs de atendimento.
 
 - 🔭 Agora: automação de processos no **Tareffa**, sistemas internos e robôs de atendimento na **DigSac**
-- 🌱 Estudando: Power BI, Administração de Banco de Dados, Segurança e Auditoria de Sistemas
+- 🌱 Estudando: IA aplicada ao desenvolvimento (Claude Code, MCP, GitHub Copilot), Power BI e Segurança e Auditoria de Sistemas
 - 📍 Sarandi – PR · 🇧🇷 Português nativo · 🇺🇸 Inglês avançado
 
 ---
@@ -150,6 +150,8 @@ Desenvolvimento de ponta a ponta de um sistema ERP completo em PHP com Adianti F
 | PHP Básico | 40 h |
 | Administrando Banco de Dados — Escola Virtual | 15 h |
 | Análise de Dados no Power BI — Escola Virtual | 4 h |
+| Soluções de IA no GitHub — Fundação Bradesco | 15 h |
+| Claude Code do Zero ao Avançado: MCP, Skills, Hooks e Rules — Udemy | 5,5 h |
 | MySQL, HTML5, CSS3, JavaScript, TypeScript — Udemy | — |
 
 ---
