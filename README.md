@@ -152,7 +152,7 @@ Desenvolvimento de ponta a ponta de um sistema ERP completo em PHP com Adianti F
 | Análise de Dados no Power BI — Escola Virtual | 4 h |
 | Soluções de IA no GitHub — Fundação Bradesco | 15 h |
 | Claude Code do Zero ao Avançado: MCP, Skills, Hooks e Rules — Udemy | 5,5 h |
-| MySQL, HTML5, CSS3, JavaScript, TypeScript — Udemy | — |
+| MySQL, HTML5, CSS3, JavaScript, TypeScript — Udemy | 30 h |
 
 ---
 
